@@ -1,0 +1,12 @@
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\bin\Debug\net6.0\EFCoreApp.Domain.deps.json
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\bin\Debug\net6.0\EFCoreApp.Domain.dll
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\bin\Debug\net6.0\EFCoreApp.Domain.pdb
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\EFCoreApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\EFCoreApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\EFCoreApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\EFCoreApp.Domain.AssemblyInfo.cs
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\EFCoreApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\EFCoreApp.Domain.dll
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\refint\EFCoreApp.Domain.dll
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\EFCoreApp.Domain.pdb
+C:\Users\Behzad\source\repos\EFCoreSample\EFCoreApp.Domain\obj\Debug\net6.0\ref\EFCoreApp.Domain.dll
